@@ -21,8 +21,6 @@ Este exercício tem o objetivo de testar o projeto Claude Autofix Action, dispon
   |------|-------|
   | `ANTHROPIC_API_KEY` | A tua chave de console.anthropic.com |
 
-  > Como criar uma chave de API: criar conta em console.anthropic.com, ir a **API Keys → Create Key**, copiar a chave e colar no local indicado no passo anterior.
-
 ---
 
 ## Exercício 3 — Caso real
