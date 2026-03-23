@@ -26,3 +26,5 @@ Este exercício tem o objetivo de testar o projeto Claude Autofix Action, dispon
 ## Exercício 3 — Caso real
 
 Este exercício já pretende simular um caso mais real do uso desta ferramenta. Enquanto nos anteriores testámos e vimos exemplos simples, aqui a ideia é simular uma implementação de um sistema de autênticação, analisando a utilidade da resposta do agente mas sempre tendo em conta o ficheiro `REQUISITOS.md` (que simula o que nos foi pedido).
+
+Teste Exercicio 3
